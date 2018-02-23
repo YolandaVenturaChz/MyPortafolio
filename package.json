@@ -1,0 +1,27 @@
+{
+  "name": "miportafolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "http-serve": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "scripts": {
+    "build": "babel --preset es2015 src -d public/js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YolandaVenturaChz/MyPortafolio.git"
+  },
+  "keywords": [],
+  "author": "Yolanda Ventura Chavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YolandaVenturaChz/MyPortafolio/issues"
+  },
+  "homepage": "https://github.com/YolandaVenturaChz/MyPortafolio#readme"
+}
