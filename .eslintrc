@@ -24,6 +24,6 @@
     "quotes": [1, "single"],
     "id-length": [1, { "exceptions": ["i", "j", "x"] }],
     "indent": [1, 2],
-    "no-array-constructor": 1
+    "no-array-constructor":1
   }
 }
